@@ -47,4 +47,4 @@ public:
         }
         seg[ind]=min(seg[2*ind+1],seg[2*ind+2]);
     }
-}
+};
